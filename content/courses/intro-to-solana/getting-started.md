@@ -1,8 +1,12 @@
-#------------------#
+###              ###
 # REAL TESTED CODE #
-####################
+###              ###
 
----
+# The goal
+-----------
+The goal of this contribution is to provide working and updated code for developers to save time in their research.
+-----------
+
 title: Course Guide
 objectives:
   - understand what web3 is
